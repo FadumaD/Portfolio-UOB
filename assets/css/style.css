@@ -264,8 +264,8 @@ section {
 }
 
 
-.New {
-  background-image: url(../images/loading.png);
+.Tech {
+  background-image: url(../images/Tech-planet.png);
   background-size: cover;
   width: 47.5%;
   height: 300px;
@@ -276,7 +276,7 @@ section {
 }
 
 
-.New:hover {
+.Tech:hover {
   opacity: 75%;
 }
 
